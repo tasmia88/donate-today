@@ -37,4 +37,66 @@ h1 {
     padding: 10px 30px;
     border-radius: 15px;
 }
+.donate-today-area{
+    margin-battom:100px;
+}
+.donate-section-text{
+    color:black;
+    taxt-align:center;
+    margin-left:300px;
+    margin-right:300px;
+}
+.donate-amount-area{
+    text-alige: center;
+    margin:100px 300px;
+}
+.other-amount-area{
+    color:black;
+    text-align: center;
+    margin-left:300px;
+    margin-right:300px;
+}
+.other-amount-area input{
+    border:none;
+    background: none;
+}
+.other-amount-area hr{
+    color:black;
+    margin-bottm: 30px;
+}
+.donate-amount {
+    with:20%
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+#donate-border-style{
+    border-style: solid;
+    border-width: 2px;
+    border-color:tometo;
+    color:tomato;
+}
 
+#donate-plan-item-one{
+    width:30;
+    margin-left:2%
+    margin-right:2%;
+}
+#donate-plane-item-two{
+    width:30%;
+    margin-left: 2%;
+    margin-right:2%;
+    padding:10px;
+    background-color:#ebd4dc;
+    border-radius;10px;
+
+}
+#donet-plane-item-three{
+    width: 30%;
+
+    margin-left: 2%;
+    margin-right:2%;
+    padding:10px;
+    background-color:#cd91a5;
+    border-radius:10px;
+}
