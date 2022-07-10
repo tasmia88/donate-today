@@ -99,7 +99,63 @@ h1 {
     padding:10px;
     background-color:#cd91a5;
     border-radius:10px;
-}
+
+
+
+
 .latest-news-area{
-    
+    text-align:center;
+    margen-left: 100px;
+    margin-right: 100px;
+}
+.news-header{
+    text-align:center;
+    margin-left: 100px;
+    margim-right: 100px;
+}
+.news-list{
+    width:30%
+    margin-left: 1%;
+    margin-right: 1%;
+    padding:20px;
+    border-radius:20px;
+    text-align:justify;
+}
+.news-imge {
+    width:100px;
+    height: 200px;
+}
+.update-area{
+    width:50%;
+    margin:50px 300px;
+    text-align:center;
+}
+.subscribe-area{
+    width:50%;
+    min-hight:150px;
+    background: #ebd4dc;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    margin-left:300px;
+    margin-bottom: 100px;
+
+    margin-left:300px ;
+}input{
+    border:none;
+    padding:10px;
+    background: #EDF5F6;
+
+}
+button{
+    position: absolute;
+    border:none;
+    padding:10px;
+    background: tomato; 
+    color:white;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: black;
 }
